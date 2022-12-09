@@ -1,6 +1,6 @@
 # Game-prac-python
 - 파이썬으로 게임 만들기
-- 2021.07
+- 2022.02
 
 1. Catch Burger
 
